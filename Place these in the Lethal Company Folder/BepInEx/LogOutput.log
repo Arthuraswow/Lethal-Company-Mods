@@ -1,0 +1,510 @@
+[Message:   BepInEx] BepInEx 5.4.21.0 - Lethal Company (2023-12-11 8:30:36 PM)
+[Info   :   BepInEx] Running under Unity v2022.3.9.15351836
+[Info   :   BepInEx] CLR runtime version: 4.0.30319.42000
+[Info   :   BepInEx] Supports SRE: True
+[Info   :   BepInEx] System platform: Bits64, Windows
+[Message:   BepInEx] Preloader started
+[Info   :   BepInEx] Loaded 1 patcher method from [BepInEx.Preloader 5.4.21.0]
+[Info   :   BepInEx] 1 patcher plugin loaded
+[Info   :   BepInEx] Patching [UnityEngine.CoreModule] with [BepInEx.Chainloader]
+[Message:   BepInEx] Preloader finished
+[Message:   BepInEx] Chainloader ready
+[Message:   BepInEx] Chainloader started
+[Info   :   BepInEx] 27 plugins to load
+[Warning:   BepInEx] Plugin [Command Handler 1.0.0] targets a wrong version of BepInEx (5.4.22.0) and might not work until you update
+[Warning:   BepInEx] Plugin [LetMeLookDown 1.0.1] targets a wrong version of BepInEx (5.4.22.0) and might not work until you update
+[Warning:   BepInEx] Plugin [Youtube Boombox 1.4.1] targets a wrong version of BepInEx (5.4.22.0) and might not work until you update
+[Info   :   BepInEx] Loading [Ship Clock 0.9.0]
+[Info   :   BepInEx] Loading [Persistent Purchases 1.1.0]
+[Warning:Persistent Purchases] Beginning transpilation of GameNetworkManager.ResetSavedGameValues()
+[Info   :Persistent Purchases] Found ship object opcode at 62
+[Info   :Persistent Purchases] Found placeable ship object data opcode at 77
+[Info   :Persistent Purchases] Found placeable ship object data opcode at 88
+[Info   :Persistent Purchases] Found placeable ship object data opcode at 99
+[Info   :Persistent Purchases] Found placeable ship object data opcode at 110
+[Warning:Persistent Purchases] Beginning transpilation of StartOfRound.ResetShip()
+[Info   :Persistent Purchases] Found ship object prefab opcode at 75 (1)
+[Info   :Persistent Purchases] Found ship object prefab opcode at 163 (1)
+[Info   :Persistent Purchases] Found suit reset opcode at 240
+[Warning:Persistent Purchases] Beginning transpilation of StartOfRound.SyncShipUnlockablesServerRpc()
+[Warning:Persistent Purchases] This crash is not evading me
+[Message:Persistent Purchases] Plugin Persistent Purchases is loaded!
+[Info   :   BepInEx] Loading [BetterEmotes 1.1.1]
+[Info   :BetterEmotes] BetterEmotes loading...
+[Info   :BetterEmotes] BetterEmotes loaded
+[Info   :   BepInEx] Loading [Quota Rollover 2.1.0]
+[Info   :Quota Rollover] Mod Boxofbiscuits97.QuotraRollover is loaded!
+[Info   :   BepInEx] Loading [Lethal Company Input Utils 0.4.0]
+[Info   :Lethal Company Input Utils] Plugin com.rune580.LethalCompanyInputUtils is loaded!
+[Info   :   BepInEx] Loading [Bigger Battery 1.0.2]
+[Info   :Bigger Battery] Plugin Bigger Battery-1.0.2 loaded!
+[Info   :   BepInEx] Loading [EmployeeAssignments 1.0.4]
+[Info   :   BepInEx] Loading [FasterItemDropship 1.2.0]
+[Info   :FasterItemDropship] BindingConfigs
+[Info   :FasterItemDropship] FasterItemDropship loaded
+[Info   :   BepInEx] Loading [LetMeLookDown 1.0.1]
+[Info   :LetMeLookDown] LetMeLookDown mod loaded
+[Info   :   BepInEx] Loading [ReservedItemSlotCore 1.4.4]
+[Info   :ReservedItemSlotCore] BindingConfigs
+[Info   :ReservedItemSlotCore] ReservedItemSlotCore loaded
+[Info   :   BepInEx] Loading [ReservedFlashlightSlot 1.4.5]
+[Info   :ReservedFlashlightSlot] BindingConfigs
+[Info   :ReservedFlashlightSlot] ReservedFlashlightSlot loaded
+[Info   :   BepInEx] Loading [ReservedWalkieSlot 1.4.6]
+[Info   :ReservedWalkieSlot] BindingConfigs
+[Info   :ReservedWalkieSlot] ReservedWalkieSlot loaded
+[Info   :   BepInEx] Loading [HideModList 1.0.0]
+[Info   :HideModList] Plugin HideModList is loaded!
+[Info   :   BepInEx] Loading [LC_API 2.1.4]
+[Warning:    LC_API] 
+.____    _________           _____  __________ .___  
+|    |   \_   ___ \         /  _  \ \______   \|   | 
+|    |   /    \  \/        /  /_\  \ |     ___/|   | 
+|    |___\     \____      /    |    \|    |    |   | 
+|_______ \\______  /______\____|__  /|____|    |___| 
+        \/       \//_____/        \/                 
+                                                     
+[Info   :    LC_API] LC_API Starting up..
+[Info   :   BepInEx] Loading [MoreCompany 1.7.2]
+[Info   :MoreCompany] Loading MoreCompany...
+[Info   :MoreCompany] Checking: E:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins/MoreCompanyCosmetics
+[Info   :MoreCompany] Read settings and cosmetics
+[Info   :MoreCompany] Loaded cosmetic: builtin.3dglasses from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.bunnyears from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.denimhat from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.fancyglasses from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.partyglasses from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.gunholster from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.hardhat from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.jesterhat from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.kittyears from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.mimemask from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.fancypants from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.outoforder from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.partyhat from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.plaguemask from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.propellerhat from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.eyeballs from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.rudolph from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.santahat from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.slimething from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.tophat from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.watch from bundle
+[Info   :MoreCompany] Loading USER COSMETICS...
+[Info   :MoreCompany] Loaded MoreCompany FULLY
+[Info   :   BepInEx] Loading [Hide Chat 1.0.0]
+[Debug  :Miodec.HideChat] hidechat is awake
+[Info   :   BepInEx] Loading [Helmet_Cameras 2.1.5]
+[Info   :Helmet_Cameras] Plugin Helmet_Cameras is loaded with version 2.1.5!
+[Info   :Helmet_Cameras] --------Helmet camera patch done.---------
+[Info   :   BepInEx] Loading [Flashlight 1.4.0]
+[Info   :Flashlight] ------Flashlight done.------
+[Info   :   BepInEx] Loading [WalkieUse 1.3.0]
+[Info   : WalkieUse] ------Walkie done.------
+[Info   :   BepInEx] Loading [Skinwalker Mod 1.0.8]
+[Info   :RugbugRedfern.SkinwalkerMod] SKINWALKER MOD STARTING UP 1.0.8
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_BaboonHawk VALUE LOADED FROM CONFIG: [False]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_Bracken VALUE LOADED FROM CONFIG: [True]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_BunkerSpider VALUE LOADED FROM CONFIG: [False]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_Centipede VALUE LOADED FROM CONFIG: [False]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_CoilHead VALUE LOADED FROM CONFIG: [False]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_EyelessDog VALUE LOADED FROM CONFIG: [False]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_ForestGiant VALUE LOADED FROM CONFIG: [False]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_GhostGirl VALUE LOADED FROM CONFIG: [False]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_GiantWorm VALUE LOADED FROM CONFIG: [False]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_HoardingBug VALUE LOADED FROM CONFIG: [False]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_Hygrodere VALUE LOADED FROM CONFIG: [False]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_Jester VALUE LOADED FROM CONFIG: [False]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_Masked VALUE LOADED FROM CONFIG: [False]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_Nutcracker VALUE LOADED FROM CONFIG: [False]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_SporeLizard VALUE LOADED FROM CONFIG: [False]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_Thumper VALUE LOADED FROM CONFIG: [False]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceLineFrequency VALUE LOADED FROM CONFIG: [0.4]
+[Info   :RugbugRedfern.SkinwalkerMod] Skinwalker Mod Object Initialized
+[Info   :   BepInEx] Loading [Command Handler 1.0.0]
+[Info   :   BepInEx] Loading [Youtube Boombox 1.4.1]
+[Info   :   BepInEx] Loading [Scaling Start Credits 1.0.1]
+[Info   :sunnobunno.scalingstartcredits] sunnobunno.scalingstartcredits is loading.
+[Info   :sunnobunno.scalingstartcredits] sunnobunno.scalingstartcredits is loaded.
+[Info   :   BepInEx] Loading [LC Always Hear Active Walkies 1.4.2]
+[Info   :suskitech.LCAlwaysHearActiveWalkie] \ /
+[Info   :suskitech.LCAlwaysHearActiveWalkie] /|\
+[Info   :suskitech.LCAlwaysHearActiveWalkie]  |----|
+[Info   :suskitech.LCAlwaysHearActiveWalkie]  |[__]| Always Hear Active Walkies
+[Info   :suskitech.LCAlwaysHearActiveWalkie]  |.  .| Version 1.4.2 Loaded
+[Info   :suskitech.LCAlwaysHearActiveWalkie]  |____|
+[Info   :   BepInEx] Loading [Late Company 1.0.6]
+[Info   :Late Company] Late Company loaded!
+[Info   :   BepInEx] Loading [Mimics 2.0.0]
+[Info   :    Mimics] Plugin Mimics is loaded!
+[Info   :   BepInEx] Loading [More Suits 1.4.1]
+[Info   :More Suits] Plugin More Suits is loaded!
+[Message:   BepInEx] Chainloader startup complete
+[Info   :EmployeeAssignments] Plugin EmployeeAssignments is loaded!
+[Message:    LC_API] BundleAPI will now load all asset bundles...
+[Message:    LC_API] BundleAPI got no assets to load from legacy directory
+[Message:    LC_API] BundleAPI got 2 AssetBundles to load!
+[Error  : Unity Log] The AssetBundle 'E:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\BetterEmotes\animationsbundle' can't be loaded because another AssetBundle with the same files is already loaded.
+[Error  :    LC_API] Failed to load an assetbundle! Path: E:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\BetterEmotes\animationsbundle
+[Error  : Unity Log] The AssetBundle 'E:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\BetterEmotes\animatorbundle' can't be loaded because another AssetBundle with the same files is already loaded.
+[Error  :    LC_API] Failed to load an assetbundle! Path: E:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\BetterEmotes\animatorbundle
+[Message:    LC_API] BundleAPI finished loading all assets.
+[Message:    LC_API] BundleAPI finished loading all assets.
+[Info   :    LC_API] LC_API Started!
+[Info   : Unity Log] Changing gamma
+[Info   : Unity Log] override float value: 0
+[Info   : Unity Log] Overriding float
+[Info   : Unity Log] Gamma changed
+[Info   : Unity Log] Set gamma to new value: 0; (0.00, 0.00, 0.00, 0.00) (True)
+[Info   : Unity Log] Saving changed settings
+[Info   : Unity Log] Changing gamma
+[Info   : Unity Log] override float value: 0
+[Info   : Unity Log] Overriding float
+[Info   : Unity Log] Gamma changed
+[Info   : Unity Log] Set gamma to new value: 0; (0.00, 0.00, 0.00, 0.00) (True)
+[Info   : Unity Log] subcribing to steam callbacks
+[Info   : Unity Log] Changing gamma
+[Info   : Unity Log] override float value: 0
+[Info   : Unity Log] Overriding float
+[Info   : Unity Log] Gamma changed
+[Info   : Unity Log] Set gamma to new value: 0; (0.00, 0.00, 0.00, 0.00) (True)
+[Info   : Unity Log] [FacepunchTransport] - Initialized access to Steam Relay Network.
+[Info   : Unity Log] [FacepunchTransport] - Fetched user Steam ID.
+[Info   : Unity Log] Set version num
+[Info   : Unity Log] Changing gamma
+[Info   : Unity Log] override float value: 0
+[Info   : Unity Log] Overriding float
+[Info   : Unity Log] Gamma changed
+[Info   : Unity Log] Set gamma to new value: 0; (0.00, 0.00, 0.00, 0.00) (True)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (E:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (E:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   : Unity Log] host button pressed
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (E:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   : Unity Log] Displaying menu message
+[Info   : Unity Log] [Netcode] StartHost
+[Info   : Unity Log] [Netcode] Initialize
+[Info   : Unity Log] [FacepunchTransport] - Starting as server.
+[Info   : Unity Log] Connection approval callback! Game version of client request: 
+[Info   : Unity Log] Joining client id: 0; Local/host client id: 0
+[Info   : Unity Log] Stopped connection approval callback, as the client in question was the host!
+[Warning: Unity Log] [Netcode] You cannot decline the host connection. The connection was automatically approved.
+[Info   : Unity Log] started host!
+[Info   : Unity Log] are we in a server?: True
+[Message:    LC_API] server pre-setup success
+[Info   : Unity Log] Lobby has been created
+[Info   : Unity Log] Enabling connection callbacks in StartOfRound
+[Info   : Unity Log] Began listening to SceneManager_OnLoadComplete1 on this client
+[Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
+[Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
+[Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
+[Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
+[Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
+[Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
+[Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
+[Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
+[Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
+[Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
+[Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
+[Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
+[Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
+[Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
+[Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
+[Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
+[Info   :RugbugRedfern.SkinwalkerMod] HOST SENDING CONFIG TO CLIENTS
+[Info   :RugbugRedfern.SkinwalkerMod] SkinwalkerNetworkManager Awake
+[Info   : Unity Log] Initialized SkinwalkerNetworkManager
+[Info   : Unity Log] Changing gamma
+[Info   : Unity Log] override float value: 0
+[Info   : Unity Log] Overriding float
+[Info   : Unity Log] Gamma changed
+[Info   : Unity Log] Set gamma to new value: 0; (0.00, 0.00, 0.00, 0.00) (True)
+[Warning: Unity Log] damageTrigger is disabled! Netcode for GameObjects does not support spawning disabled NetworkBehaviours! The InteractTrigger component was skipped during spawn!
+[Warning: Unity Log] The referenced script (SelectionWheel) on this Behaviour is missing!
+[Warning: Unity Log] The referenced script on this Behaviour (Game Object 'MoreEmotesMenu') is missing!
+[Warning: Unity Log] The referenced script on this Behaviour (Game Object '<null>') is missing!
+[Warning: Unity Log] The referenced script (SelectionWheel) on this Behaviour is missing!
+[Warning: Unity Log] The referenced script on this Behaviour (Game Object 'MoreEmotesMenu') is missing!
+[Warning: Unity Log] The referenced script on this Behaviour (Game Object '<null>') is missing!
+[Warning: Unity Log] The referenced script (SelectionWheel) on this Behaviour is missing!
+[Warning: Unity Log] The referenced script on this Behaviour (Game Object 'MoreEmotesMenu') is missing!
+[Warning: Unity Log] The referenced script on this Behaviour (Game Object '<null>') is missing!
+[Warning: Unity Log] The referenced script (SelectionWheel) on this Behaviour is missing!
+[Warning: Unity Log] The referenced script on this Behaviour (Game Object 'MoreEmotesMenu') is missing!
+[Warning: Unity Log] The referenced script on this Behaviour (Game Object '<null>') is missing!
+[Warning: Unity Log] The referenced script (SelectionWheel) on this Behaviour is missing!
+[Warning: Unity Log] The referenced script on this Behaviour (Game Object 'MoreEmotesMenu') is missing!
+[Info   : Unity Log] Item sales percentages #0: 0
+[Info   : Unity Log] Item sales percentages #1: 0
+[Info   : Unity Log] Item sales percentages #2: 0
+[Info   : Unity Log] Item sales percentages #3: 0
+[Info   : Unity Log] Item sales percentages #4: 0
+[Info   : Unity Log] Item sales percentages #5: 0
+[Info   : Unity Log] Item sales percentages #6: 0
+[Info   : Unity Log] Item sales percentages #7: 0
+[Info   : Unity Log] Item sales percentages #8: 0
+[Info   : Unity Log] Item sales percentages #9: 0
+[Info   : Unity Log] Item sales percentages #10: 0
+[Info   : Unity Log] Item sales percentages #11: 0
+[Info   : Unity Log] Item sales percentages #12: 0
+[Info   : Unity Log] Group credits: 60
+[Info   : Unity Log] # powered lights: 0
+[Info   : Unity Log] level id: 0
+[Info   : Unity Log] Changing level
+[Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
+[Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
+[Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
+[Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
+[Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
+[Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
+[Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
+[Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
+[Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
+[Info   : Unity Log] Key 'shipGrabbableItems' does not exist
+[Info   :ReservedItemSlotCore] Adding 3 Reserved Item slots to the inventory HUD. Previous inventory HUD size: 4
+[Info   :ReservedItemSlotCore] Adding Reserved Item slot for item types [Pro-flashlight]. Inventory index: 4
+[Info   :ReservedItemSlotCore] Adding Reserved Item slot for item types [Walkie-talkie]. Inventory index: 5
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Info   :ReservedItemSlotCore] Finished adding 2 Reserved Item slots in the inventory HUD.
+[Warning: Unity Log] The referenced script on this Behaviour (Game Object '<null>') is missing!
+[Warning: Unity Log] The referenced script (SelectionWheel) on this Behaviour is missing!
+[Warning: Unity Log] The referenced script on this Behaviour (Game Object 'MoreEmotesMenu') is missing!
+[Warning: Unity Log] The referenced script on this Behaviour (Game Object '<null>') is missing!
+[Warning: Unity Log] The referenced script (SelectionWheel) on this Behaviour is missing!
+[Warning: Unity Log] The referenced script on this Behaviour (Game Object 'MoreEmotesMenu') is missing!
+[Warning: Unity Log] The referenced script on this Behaviour (Game Object '<null>') is missing!
+[Warning: Unity Log] The referenced script (SelectionWheel) on this Behaviour is missing!
+[Warning: Unity Log] The referenced script on this Behaviour (Game Object 'MoreEmotesMenu') is missing!
+[Warning: Unity Log] The referenced script on this Behaviour (Game Object '<null>') is missing!
+[Warning: Unity Log] The referenced script (SelectionWheel) on this Behaviour is missing!
+[Warning: Unity Log] The referenced script on this Behaviour (Game Object 'MoreEmotesMenu') is missing!
+[Info   : Unity Log] Started spectating
+[Info   : Unity Log] Started spectating
+[Info   : Unity Log] Started spectating
+[Info   : Unity Log] Started spectating
+[Info   : Unity Log] Started spectating
+[Info   : Unity Log] Started spectating
+[Info   : Unity Log] Started spectating
+[Info   : Unity Log] Started spectating
+[Warning: Unity Log] [Netcode] Setting ownership twice? Client-ID 0 already owns NetworkObject ID 19!
+[Info   : Unity Log] soumdmanager: True; False
+[Info   : Unity Log] [HELMET_CAMERAS] Starting coroutine...
+[Info   : Unity Log] [HELMET_CAMERAS] 5 seconds for init mode... Please wait...
+[Info   : Unity Log] Taking control of player Player and enabling camera!
+[Info   : Unity Log] Starting voice tracking for player: Arthuras
+[Info   : Unity Log] !!!! ENABLING CAMERA FOR PLAYER: Player
+[Info   : Unity Log] !!!! connectedPlayersAmount: 0
+[Info   : Unity Log] Has beta?: {hasBeta}
+[Info   : Unity Log] Has beta save data: True
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/LightSwitchContainer/PlacementCollider"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/Cube"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/AnimatedShipDoor/HangarDoorLeft (1)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/ShipBottomColliders/Cube (1)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/ControlDesk.001"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/ShipBottomColliders/Cube (3)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/ShipBottomColliders/Cube (7)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/ShipBottomColliders/Cube (6)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/ShipBottomColliders/Cube (8)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/ShipBottomColliders/Cube (5)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/ShipBottomColliders/Cube (4)"
+[Warning: Unity Log] [Dissonance:Recording] (16:33:45.803) CapturePipelineManager: Detected a frame skip, forcing capture pipeline reset (Delta Time:0.9500046)
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/StorageCloset/Cube.000/Cube"
+[Warning:    LC_API] Asking all other players for their mod list..
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (E:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   : Unity Log] [HELMET_CAMERAS] Ship camera founded...
+[Info   : Unity Log] [HELMET_CAMERAS] Monitors were changed...
+[Info   : Unity Log] [HELMET_CAMERAS] Turning off vanilla internal ship camera
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (E:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (E:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (E:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   : Unity Log] Triggering animated object trigger bool: setting to False
+[Info   : Unity Log] bool val: False
+[Info   : Unity Log] Received set ship lights RPC. Lights on?: False
+[Info   : Unity Log] Toggling ship lights RPC. lights now: False
+[Info   : Unity Log] Triggering animated object trigger bool: setting to True
+[Info   : Unity Log] bool val: True
+[Info   : Unity Log] Received set ship lights RPC. Lights on?: True
+[Info   : Unity Log] Toggling ship lights RPC. lights now: True
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (E:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (E:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (E:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (E:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (E:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] Leaving current lobby
+[Info   : Unity Log] Disconnecting and setting networkobjects to destroy with owner
+[Info   : Unity Log] Got no ship grabbable items to save.
+[Info   : Unity Log] Shutting down and disconnecting from server. Is host?: True
+[Info   : Unity Log] [Netcode] Shutdown
+[Info   : Unity Log] [Netcode] ShutdownInternal
+[Info   : Unity Log] [FacepunchTransport] - Shutting down.
+[Info   : Unity Log] [Netcode] NetworkConnectionManager.Shutdown() -> IsListening && NetworkTransport != null -> NetworkTransport.Shutdown()
+[Info   : Unity Log] CONDITIONALLY resetting unlockables list!
+[Info   :Persistent Purchases] Not resetting 0 dontResetAnything
+[Info   :Persistent Purchases] Not resetting 1 dontResetAnything
+[Info   :Persistent Purchases] Not resetting 2 dontResetAnything
+[Info   :Persistent Purchases] Not resetting 3 dontResetAnything
+[Info   :Persistent Purchases] Not resetting 4 dontResetAnything
+[Info   :Persistent Purchases] Is resetting 5 dontResetAnything
+[Info   :Persistent Purchases] Resetting Teleporter
+[Info   :Persistent Purchases] Not resetting 6 dontResetAnything
+[Info   :Persistent Purchases] Not resetting 7 dontResetAnything
+[Info   :Persistent Purchases] Not resetting 8 dontResetAnything
+[Info   :Persistent Purchases] Not resetting 9 dontResetAnything
+[Info   :Persistent Purchases] Not resetting 10 dontResetAnything
+[Info   :Persistent Purchases] Not resetting 11 dontResetAnything
+[Info   :Persistent Purchases] Not resetting 12 dontResetAnything
+[Info   :Persistent Purchases] Not resetting 13 dontResetAnything
+[Info   :Persistent Purchases] Not resetting 14 dontResetAnything
+[Info   :Persistent Purchases] Not resetting 15 dontResetAnything
+[Info   :Persistent Purchases] Not resetting 16 dontResetAnything
+[Info   :Persistent Purchases] Not resetting 17 dontResetAnything
+[Info   :Persistent Purchases] Is resetting 18 dontResetAnything
+[Info   :Persistent Purchases] Resetting Loud horn
+[Info   :Persistent Purchases] Is resetting 19 dontResetAnything
+[Info   :Persistent Purchases] Resetting Inverse Teleporter
+[Info   :Persistent Purchases] Not resetting 20 dontResetAnything
+[Info   :Persistent Purchases] Not resetting 21 dontResetAnything
+[Info   :Persistent Purchases] Not resetting 22 dontResetAnything
+[Info   :Persistent Purchases] Not resetting 23 dontResetAnything
+[Info   :Persistent Purchases] Not resetting 24 dontResetAnything
+[Info   :Persistent Purchases] Not resetting 25 dontResetAnything
+[Info   :Persistent Purchases] Not resetting 26 dontResetAnything
+[Info   :Persistent Purchases] Not resetting 27 dontResetAnything
+[Info   :Persistent Purchases] Not resetting 28 dontResetAnything
+[Info   :Persistent Purchases] Not resetting 29 dontResetAnything
+[Info   :Persistent Purchases] Not resetting 30 dontResetAnything
+[Info   :Persistent Purchases] Not resetting 31 dontResetAnything
+[Info   :Persistent Purchases] Not resetting 32 dontResetAnything
+[Info   :Persistent Purchases] Not resetting 33 dontResetAnything
+[Info   :Persistent Purchases] Not resetting 34 dontResetAnything
+[Info   :Persistent Purchases] Not resetting 35 dontResetAnything
+[Info   :Persistent Purchases] Not resetting 36 dontResetAnything
+[Info   :Persistent Purchases] Not resetting 37 dontResetAnything
+[Info   :Persistent Purchases] Not resetting 38 dontResetAnything
+[Info   :Persistent Purchases] Not resetting 39 dontResetAnything
+[Info   :Persistent Purchases] Not resetting 40 dontResetAnything
+[Info   :Persistent Purchases] Not resetting 41 dontResetAnything
+[Info   :Persistent Purchases] Not resetting 42 dontResetAnything
+[Info   :Persistent Purchases] Not resetting 43 dontResetAnything
+[Info   :Persistent Purchases] Not resetting 44 dontResetAnything
+[Info   :Persistent Purchases] Not resetting 45 dontResetAnything
+[Info   :Persistent Purchases] Not resetting 46 dontResetAnything
+[Info   :Persistent Purchases] Not resetting 47 dontResetAnything
+[Info   :Persistent Purchases] Not resetting 48 dontResetAnything
+[Info   :Persistent Purchases] Not resetting 49 dontResetAnything
+[Info   :Persistent Purchases] Not resetting 50 dontResetAnything
+[Info   :Persistent Purchases] Not resetting 51 dontResetAnything
+[Info   :Persistent Purchases] Not resetting 52 dontResetAnything
+[Info   :Persistent Purchases] Not resetting 53 dontResetAnything
+[Info   :Persistent Purchases] Not resetting 54 dontResetAnything
+[Info   :Persistent Purchases] Not resetting 55 dontResetAnything
+[Info   :Persistent Purchases] Not resetting 56 dontResetAnything
+[Info   :Persistent Purchases] Not resetting 57 dontResetAnything
+[Info   :Persistent Purchases] Not resetting 58 dontResetAnything
+[Info   :Persistent Purchases] Not resetting 59 dontResetAnything
+[Info   :Persistent Purchases] Not resetting 60 dontResetAnything
+[Info   :Persistent Purchases] Not resetting 61 dontResetAnything
+[Info   :Persistent Purchases] Not resetting 62 dontResetAnything
+[Info   :Persistent Purchases] Not resetting 63 dontResetAnything
+[Info   :Persistent Purchases] Not resetting 64 dontResetAnything
+[Info   :Persistent Purchases] Not resetting 65 dontResetAnything
+[Info   :Persistent Purchases] Not resetting 66 dontResetAnything
+[Info   :Persistent Purchases] Not resetting 67 dontResetAnything
+[Info   :Persistent Purchases] Not resetting 68 dontResetAnything
+[Info   :Persistent Purchases] Not resetting 69 dontResetAnything
+[Info   :Persistent Purchases] Not resetting 70 dontResetAnything
+[Info   :Persistent Purchases] Not resetting 71 dontResetAnything
+[Info   :Persistent Purchases] Not resetting 72 dontResetAnything
+[Info   :Persistent Purchases] Not resetting 73 dontResetAnything
+[Info   :Persistent Purchases] Not resetting 74 dontResetAnything
+[Info   :Persistent Purchases] Not resetting 75 dontResetAnything
+[Info   :Persistent Purchases] Not resetting 76 dontResetAnything
+[Info   :Persistent Purchases] Not resetting 77 dontResetAnything
+[Info   :Persistent Purchases] Not resetting 78 dontResetAnything
+[Info   :Persistent Purchases] Not resetting 79 dontResetAnything
+[Info   :Persistent Purchases] Not resetting 80 dontResetAnything
+[Info   :Persistent Purchases] Not resetting 81 dontResetAnything
+[Info   :Persistent Purchases] Not resetting 82 dontResetAnything
+[Info   :Persistent Purchases] Not resetting 83 dontResetAnything
+[Info   :Persistent Purchases] Not resetting 84 dontResetAnything
+[Info   :Persistent Purchases] Not resetting 85 dontResetAnything
+[Info   :Persistent Purchases] Not resetting 86 dontResetAnything
+[Info   :Persistent Purchases] Not resetting 87 dontResetAnything
+[Info   :Persistent Purchases] Not resetting 88 dontResetAnything
+[Info   :Persistent Purchases] Not resetting 89 dontResetAnything
+[Info   :Persistent Purchases] Not resetting 90 dontResetAnything
+[Info   :Persistent Purchases] Not resetting 91 dontResetAnything
+[Info   :Persistent Purchases] Not resetting 92 dontResetAnything
+[Info   :Persistent Purchases] Not resetting 93 dontResetAnything
+[Info   :Persistent Purchases] Not resetting 94 dontResetAnything
+[Info   :Persistent Purchases] Not resetting 95 dontResetAnything
+[Info   :Persistent Purchases] Not resetting 96 dontResetAnything
+[Info   :Persistent Purchases] Not resetting 97 dontResetAnything
+[Info   :Persistent Purchases] Not resetting 98 dontResetAnything
+[Info   :Persistent Purchases] Not resetting 99 dontResetAnything
+[Info   :Persistent Purchases] Not resetting 100 dontResetAnything
+[Info   :Persistent Purchases] Not resetting 101 dontResetAnything
+[Info   :Persistent Purchases] Not resetting 102 dontResetAnything
+[Info   :Persistent Purchases] Not resetting 103 dontResetAnything
+[Info   :Persistent Purchases] Not resetting 104 dontResetAnything
+[Info   :Persistent Purchases] Not resetting 105 dontResetAnything
+[Info   :Persistent Purchases] Not resetting 106 dontResetAnything
+[Info   :Persistent Purchases] Not resetting 107 dontResetAnything
+[Info   :Persistent Purchases] Not resetting 108 dontResetAnything
+[Info   :Persistent Purchases] Not resetting 109 dontResetAnything
+[Info   :Persistent Purchases] Not resetting 110 dontResetAnything
+[Info   :Persistent Purchases] Not resetting 111 dontResetAnything
+[Info   :Persistent Purchases] Not resetting 112 dontResetAnything
+[Info   :Persistent Purchases] Not resetting 113 dontResetAnything
+[Info   :Persistent Purchases] Not resetting 114 dontResetAnything
+[Info   :Persistent Purchases] Not resetting 115 dontResetAnything
+[Info   :Persistent Purchases] Not resetting 116 dontResetAnything
+[Info   :Persistent Purchases] Not resetting 117 dontResetAnything
+[Info   :Persistent Purchases] Not resetting 118 dontResetAnything
+[Info   :Persistent Purchases] Not resetting 119 dontResetAnything
+[Info   :Persistent Purchases] Not resetting 120 dontResetAnything
+[Info   :Persistent Purchases] Not resetting 121 dontResetAnything
+[Info   :Persistent Purchases] Not resetting 122 dontResetAnything
+[Info   :Persistent Purchases] Not resetting 123 dontResetAnything
+[Info   : Unity Log] Scene manager is null
+[Warning: Unity Log] [Netcode] NetworkBehaviour-Player (6) is being destroyed while NetworkObject-Player (6) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-Player (4) is being destroyed while NetworkObject-Player (4) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-Player (7) is being destroyed while NetworkObject-Player (7) is still spawned! (could break state synchronization)
+[Info   : Unity Log] DISABLING connection callbacks in round manager
+[Warning: Unity Log] [Netcode] NetworkBehaviour-Player (5) is being destroyed while NetworkObject-Player (5) is still spawned! (could break state synchronization)
+[Info   :RugbugRedfern.SkinwalkerMod] SkinwalkerNetworkManager OnDestroy
+[Info   : Unity Log] Terminal disabled, disabling ESC key listener
+[Warning: Unity Log] [Netcode] NetworkBehaviour-Player (1) is being destroyed while NetworkObject-Player (1) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-Player (2) is being destroyed while NetworkObject-Player (2) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-Player (3) is being destroyed while NetworkObject-Player (3) is still spawned! (could break state synchronization)
+[Info   : Unity Log] Set version num
+[Info   : Unity Log] Changing gamma
+[Info   : Unity Log] override float value: 0
+[Info   : Unity Log] Overriding float
+[Info   : Unity Log] Gamma changed
+[Info   : Unity Log] Set gamma to new value: 0; (0.00, 0.00, 0.00, 0.00) (True)
